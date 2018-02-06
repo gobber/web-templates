@@ -17,239 +17,51 @@ Também é possível obter todos os templates clonando este repositório.
 $ git clone https://github.com/gobber/web-templates
 ```
 
+Não é possível fazer download de subdiretórios no github, porém podemos utilizar uma ferramenta chamada [DownGit](https://minhaskamal.github.io/DownGit/#/home). Os links abaixos foram gerados a partir dela.
+
 # <img width="25" height="25" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" alt="" /> Templates médicos
 
-Nesta seção temos alguns templates para área de medicina: farmácia, enfermagem, hospital e etc	.
+Nesta seção temos alguns templates para área de medicina: farmácia, enfermagem, hospital e etc.
 
-## Health Care
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/healthcare)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/healthcare.png) 
-
-## Doctor
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/doctor)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/doctor.png)
-
-## Care
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/web-care)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/webcare.png)
-
-## Infirmary
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/web-infirmary)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/web-infirmary.png)
-
-## Scientist
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/web-scientist)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/web-scientist.png)
-
-# Medilab
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/medilab)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/medilab.png)
+|![](images/healthcare.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/healthcare) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) | ![](images/doctor.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/doctor) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) |
+| :---------------- | :---------------- |
+| ![](images/webcare.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/web-care) ![](https://img.shields.io/badge/language-html-red.svg)  ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) | ![](images/web-infirmary.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/web-infirmary) ![](https://img.shields.io/badge/language-html-red.svg)  ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) |
+| ![](images/web-scientist.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/web-scientist) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) | ![](images/medilab.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/medilab) ![](https://img.shields.io/badge/language-html-red.svg)  ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) |
 
 # <img width="25" height="25" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png" alt="" /> Templates de uso geral
 
 Alguns templates de uso geral, grande parte do tipo *single page*.
 
-## 24 News
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/24-news)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/24-news.png)
-
-## Alexis Html V1
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/alexis-html-v1)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/language-php-green.svg)
-
-![](images/alexis-html-v1.png)
-
-## Bright Free Lite
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/bright-free-lite) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-![](https://img.shields.io/badge/language-php-green.svg)
-
-![](images/bright-free-lite.png)
-
-## Elate
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/elate) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/elate.png)
-
-## Fusion
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/fusion) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-![](https://img.shields.io/badge/language-php-green.svg)
-
-![](images/fusion.png)
-
-## Guide
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/guide) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/guide.png)
-
-## Guri
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/guri) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/guri.png)
-
-## Neat
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/neat) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/neat.png)
-
-## Sedna
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/sedna) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/sedna.png)
-
-## Starton
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/starton-main-files) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/starton-main-files.png)
-
-## Bizpage
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/bizpage-master) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-
-![](images/bizpage-master.png)
-
-## Exclusivity
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/exclusivity-master) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/exclusivity-master.png)
-
-## Places
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/places-master)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/places-master.png)
-
-## Rage
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/rage) 
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-![](https://img.shields.io/badge/language-JavaScript-orange.svg)
-![](https://img.shields.io/badge/framework-bootstrap-blue.svg)
-
-![](images/rage.png)
+| ![](images/24-news.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/24-news) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) | ![](images/alexis-html-v1.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/alexis-html-v1) ![](https://img.shields.io/badge/language-html-red.svg)  ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/language-php-green.svg) |
+| :---------------- | :---------------- |
+| ![](images/bright-free-lite.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/bright-free-lite)  ![](https://img.shields.io/badge/language-html-red.svg)  ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) ![](https://img.shields.io/badge/language-php-green.svg) | ![](images/elate.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/elate) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) |
+| ![](images/fusion.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/fusion)  ![](https://img.shields.io/badge/language-html-red.svg)  ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) ![](https://img.shields.io/badge/language-php-green.svg) | ![](images/guide.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/guide)  ![](https://img.shields.io/badge/language-html-red.svg)  ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) |
+| ![](images/guri.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/guri)  ![](https://img.shields.io/badge/language-html-red.svg)  ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) | ![](images/neat.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/neat)  ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) |
+| ![](images/sedna.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/sedna) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) | ![](images/starton-main-files.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/starton-main-files) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) |
+| ![](images/bizpage-master.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/bizpage-master)  ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) | ![](images/exclusivity-master.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/exclusivity-master) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) |
+| ![](images/places-master.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/places-master) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) | ![](images/rage.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/rage)  ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) ![](https://img.shields.io/badge/language-JavaScript-orange.svg) ![](https://img.shields.io/badge/framework-bootstrap-blue.svg) |
 
 # <img width="25" height="25" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2709.png" alt="" /> Templates de email
 
 Templates para enviar por email, a grande maioria suporta quase todos os clientes de e-mail.
 
+| ![](images/mail-portfolio.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/mail-portfolio) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) | ![](images/slate.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/slate) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) |
+| :---------------- | :---------------- |
+| ![](images/newsletter-template.png) [![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/newsletter-template) ![](https://img.shields.io/badge/language-html-red.svg) ![](https://img.shields.io/badge/language-css-yellow.svg) | |
+
+<!--
+
+
+
 ## Mail Portfolio
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/mail-portfolio)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-
-![](images/mail-portfolio.png)
 
 ## Slate
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/slate)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
-
-![](images/slate.png)
 
 ## Newsletter
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/newsletter-template)
-![](https://img.shields.io/badge/language-html-red.svg) 
-![](https://img.shields.io/badge/language-css-yellow.svg)
 
-![](images/newsletter-template.png)
+ -->
 
 # <img width="25" height="25" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png" alt="" /> Autor
 
