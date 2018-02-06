@@ -11,13 +11,21 @@ A ideia é sempre adicionar novos templates. Vamos lá!
 
 > Todos os templates encontrados aqui foram baixados **gratuitamente** pela internet.
 
+Também é possível obter todos os templates clonando este repositório.
+
+```
+$ git clone https://github.com/gobber/web-templates
+```
+
+Não é possível fazer download de subdiretórios no github, porém podemos utilizar uma ferramenta chamada [DownGit](https://minhaskamal.github.io/DownGit/#/home). Os links abaixos foram gerados a partir dela.
+
 # <img width="25" height="25" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" alt="" /> Templates médicos
 
 Nesta seção temos alguns templates para área de medicina: farmácia, enfermagem, hospital e etc	.
 
 ## Health Care
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](healthcare) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/healthcare)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -27,7 +35,7 @@ Nesta seção temos alguns templates para área de medicina: farmácia, enfermag
 
 ## Doctor
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](doctor) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/doctor)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -37,7 +45,7 @@ Nesta seção temos alguns templates para área de medicina: farmácia, enfermag
 
 ## Care
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](web-care) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/web-care)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -47,7 +55,7 @@ Nesta seção temos alguns templates para área de medicina: farmácia, enfermag
 
 ## Infirmary
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](web-infirmary) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/web-infirmary)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -57,7 +65,7 @@ Nesta seção temos alguns templates para área de medicina: farmácia, enfermag
 
 ## Scientist
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](web-scientist) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/web-scientist)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -67,7 +75,7 @@ Nesta seção temos alguns templates para área de medicina: farmácia, enfermag
 
 # Medilab
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](medilab) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/medilab)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -81,7 +89,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## 24 News
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](24-news) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/24-news)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -91,7 +99,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Alexis Html V1
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](alexis-html-v1) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/alexis-html-v1)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -100,8 +108,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 ![](images/alexis-html-v1.png)
 
 ## Bright Free Lite
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](bright-free-lite) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/bright-free-lite) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -111,8 +118,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 ![](images/bright-free-lite.png)
 
 ## Elate
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](elate) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/elate) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -121,8 +127,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 ![](images/elate.png)
 
 ## Fusion
-
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](fusion) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/fusion) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -133,7 +138,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Guide
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](guide) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/guide) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -143,7 +148,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Guri
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](guri) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/guri) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -153,7 +158,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Neat
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](neat) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/neat) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -163,7 +168,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Sedna
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](sedna) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/sedna) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -173,7 +178,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Starton
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](starton-main-files) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/starton-main-files) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -183,7 +188,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Bizpage
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](bizpage-master) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/bizpage-master) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -192,7 +197,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Exclusivity
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](exclusivity-master) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/exclusivity-master) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -202,7 +207,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Places
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](places-master) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/places-master)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -212,7 +217,7 @@ Alguns templates de uso geral, grande parte do tipo *single page*.
 
 ## Rage
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](rage) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/rage) 
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg)
@@ -226,7 +231,7 @@ Templates para enviar por email, a grande maioria suporta quase todos os cliente
 
 ## Mail Portfolio
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](mail-portfolio) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/mail-portfolio)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 
@@ -234,7 +239,7 @@ Templates para enviar por email, a grande maioria suporta quase todos os cliente
 
 ## Slate
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](slate) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/slate)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 
@@ -242,7 +247,7 @@ Templates para enviar por email, a grande maioria suporta quase todos os cliente
 
 ## Newsletter
 
-[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](newsletter-template) 
+[![](https://img.shields.io/badge/link-%E2%86%92%20click%20here%20to%20download-lightgrey.svg)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/gobber/web-templates/tree/master/newsletter-template)
 ![](https://img.shields.io/badge/language-html-red.svg) 
 ![](https://img.shields.io/badge/language-css-yellow.svg)
 
